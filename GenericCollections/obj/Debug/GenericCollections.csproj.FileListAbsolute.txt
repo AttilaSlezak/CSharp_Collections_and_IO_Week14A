@@ -1,0 +1,5 @@
+c:\users\slezak attila\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\slezak attila\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\slezak attila\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\slezak attila\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\slezak attila\documents\visual studio 2015\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
