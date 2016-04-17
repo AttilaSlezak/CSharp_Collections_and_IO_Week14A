@@ -1,6 +1,6 @@
 # CSharp_Collections_and_IO_Week14A
 
-In these exercises I had to use Collections and IO operations.
+<h3>In these exercises I had to use Collections and IO operations.</h3>
 
 In <code>SequentialCollections</code> I had to use a <b>Queue</b> and a <b>Stack</b>.
 
