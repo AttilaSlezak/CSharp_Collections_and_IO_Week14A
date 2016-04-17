@@ -1,0 +1,6 @@
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
+C:\Users\Slezak Attila\Documents\Visual Studio 2015\Projects\IOTasks\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojResolveAssemblyReference.cache
